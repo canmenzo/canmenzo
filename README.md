@@ -1,10 +1,10 @@
-# 🏄 Mehmet Can Ozmen
+# 👨‍💻 Mehmet Can Ozmen
 
 **`Security & Vulnerability Researcher (Grad Student)`**
 
 - 👀 I’m interested in Cyber Security & Information Technology
-- 🌱 I'm currently pursuing a master's degree in Information Technology at Florida State University. 
-- 🌱 I graduated with a bachelor's degree in Information Technology in 2022. 
+- 📖 I'm currently pursuing a master's degree in Information Technology at Florida State University. 
+- 🎓 I graduated with a bachelor's degree in Information Technology in 2022. 
 - 📫 I'm seeking any job/internship opportunities to grow in the field of IT, and cyber security. To reach me "[CLICK HERE][mailto:canozmen@mail.com]"
 
 ---
