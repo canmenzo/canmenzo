@@ -1,9 +1,9 @@
 # 👨‍💻 Mehmet Can Ozmen
 
-**`Cyber Security Analyst`**
+**`Senior Cyber Security Analyst`**
 
 - 👀 I’m interested in emerging threats and technologies in Cyber Security & Information Technology.
-- 📖 I currently work as a Security Analyst at a SOC in a MDR / MCRR.
+- 📖 I currently work as a Senior Security Analyst at a SOC in a MDR / MCRR.
 - 🎓 I graduated with a Master's and Bachelor's degree in Information Technology at Florida State University. 
 - 📫 To reach me [Click HERE](mailto:canozmen@mail.com)
 
