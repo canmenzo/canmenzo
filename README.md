@@ -1,4 +1,4 @@
-# 👨‍💻 Mehmet Can Ozmen
+# 👨‍💻 Can Ozmen
 
 **`Senior Cyber Security Analyst`**
 
