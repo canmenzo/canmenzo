@@ -1,4 +1,4 @@
-# 👨‍💻 Can Ozmen
+# 👨‍💻 meNzo
 
 **`Senior Cyber Security Analyst`**
 
