@@ -2,8 +2,8 @@
 
 **`Principal Cyber Security Analyst`**
 
-- 👀 I’m interested in emerging threats and technologies in Cyber Security & Information Technology.
-- 📖 threat hunter. security researcher. prev principal cybersecurity analyst @ [critical start](https://www.criticalstart.com/)
+- 👀 I’m interested in emerging threats and technologies in Cyber Security & AI & Tech.
+- 📖 Threat hunter. Security researcher. Prev principal cybersecurity analyst @ [Critical Start](https://www.criticalstart.com/)
 - 🎓 I graduated with a Master's and Bachelor's degree in Information Technology at Florida State University. 
 - 📫 To reach me [Click HERE](mailto:canozmen@mail.com)
 
