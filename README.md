@@ -6,6 +6,7 @@
 - 📖 Threat hunter. Security researcher. Prev principal cybersecurity analyst @ [Critical Start](https://www.criticalstart.com/)
 - 🎓 I graduated with a Master's and Bachelor's degree in Information Technology at Florida State University. 
 - 📫 To reach me [Click HERE](mailto:canozmen@mail.com)
+- 🛠️ To see all my projects [Click HERE](https://canmenzo.com/projects/)
 
 ---
 
