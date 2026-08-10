@@ -4,7 +4,7 @@
 <br />
 
 - 📖 prev principal cybersec analyst @ [critical start](https://www.criticalstart.com/) | currently open to new opportunities.
-- 🎓 master's and bachelor's in IT @ [FSU](https://www.fsu.edu/)
+- 🎓 master's and bachelor's in IT @ [fsu](https://www.fsu.edu/)
 - 📫 to reach me [click HERE](mailto:canozmen@mail.com)
 - 🛠️ to see all my projects [click HERE](https://canmenzo.com/projects/)
 
