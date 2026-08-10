@@ -1,13 +1,12 @@
-# 👨‍💻 meNzo
+# 👨‍💻 menzo
 
-**`Cyber Security Analyst · AI Builder`**
+**`Security researcher · AI Builder`**
+<br />
 
-- 🔎 Security researcher — detection engineering, malware analysis, OSINT tooling.
-- 🤖 I build AI-assisted security and automation tooling on the side.
-- 📖 Prev principal cybersecurity analyst @ [Critical Start](https://www.criticalstart.com/) — currently open to new opportunities.
-- 🎓 Master's and Bachelor's in Information Technology, Florida State University.
-- 📫 To reach me [Click HERE](mailto:canozmen@mail.com)
-- 🛠️ To see all my projects [Click HERE](https://canmenzo.com/projects/)
+- 📖 prev principal cybersec analyst @ [critical start](https://www.criticalstart.com/) | currently open to new opportunities.
+- 🎓 master's and bachelor's in IT @ [FSU](https://www.fsu.edu/)
+- 📫 to reach me [click HERE](mailto:canozmen@mail.com)
+- 🛠️ to see all my projects [click HERE](https://canmenzo.com/projects/)
 
 ---
 
