@@ -2,31 +2,12 @@
 
 **`Cyber Security Analyst · AI Builder`**
 
-- 🔎 Threat hunter and security researcher — detection engineering, malware analysis, OSINT tooling.
-- 🤖 I build AI-assisted security and automation tooling on the side, mostly in Python.
+- 🔎 Security researcher — detection engineering, malware analysis, OSINT tooling.
+- 🤖 I build AI-assisted security and automation tooling on the side.
 - 📖 Prev principal cybersecurity analyst @ [Critical Start](https://www.criticalstart.com/) — currently open to new opportunities.
 - 🎓 Master's and Bachelor's in Information Technology, Florida State University.
 - 📫 To reach me [Click HERE](mailto:canozmen@mail.com)
 - 🛠️ To see all my projects [Click HERE](https://canmenzo.com/projects/)
-
----
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://canmenzo.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://canmenzo.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/canmenzo#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/canmenzo#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/canmenzo#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/canmenzo#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/canmenzo#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/canmenzo#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/canmenzo#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/canmenzo#gh-dark-mode-only)
 
 ---
 
