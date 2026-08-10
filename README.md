@@ -38,5 +38,3 @@
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Terminal" width="30px" style="padding-right:10px;" src="./img/terminal-light.svg" />
 <br />
-
----
