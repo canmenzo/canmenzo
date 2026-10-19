@@ -2,7 +2,7 @@
 
 **security researcher & ai builder**
 
-[canmenzo.com](https://canmenzo.com) · [hi@canmenzo.com](mailto:hi@canmenzo.com) · [☕ buy me a coffee](https://ko-fi.com/canmenzo)
+[menzo.dev](https://menzo.dev) · [hi@menzo.dev](mailto:hi@menzo.dev) · [☕ buy me a coffee](https://ko-fi.com/canmenzo)
 
 <br />
 
